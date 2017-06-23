@@ -1,0 +1,15 @@
+{
+  "name": "togo",
+  "version": "1.0.0",
+  "description": "async await wrapper to go style",
+  "main": "index.js",
+  "scripts": {
+    "test": "async-node test"
+  },
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "async-to-gen": "^1.3.3",
+    "tape": "^4.6.3"
+  }
+}
